@@ -15,3 +15,20 @@
   * install django 2.1.3
 
             pip3 install -r requirements.txt
+  * run the django dev server
+
+             python3 manage.py runserver
+  * cancel the operation by pressing Ctrl+C or Ctrl+Z
+
+  * makemigrations using
+
+            python3 manage.py makemigrations
+            python3 manage.py migrate
+
+  * make a superuser
+
+            python3 manage.py createsuperuser
+
+  * run the django dev server
+
+            python3 manage.py runserver
