@@ -1,6 +1,6 @@
 [book]
-authors = ["Ajmal"]
+authors = ["Ajmal, Student Developers Society"]
 language = "en"
 multilingual = false
 src = "src"
-title = "sds-website-doc"
+title = "SDS Website Contrib Docs"
