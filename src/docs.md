@@ -1,4 +1,4 @@
-# Documentation For SDS Website
+on For SDS Website
 
 This documentation is made for student developers society's website.
 
@@ -19,5 +19,6 @@ SDS website  is used to list events, blog posts and sds members profiles. Which 
 
 # Contributions to SDS Website
 
-1. [Getting Started](./getting-started.md)
-    * [Quick Start](./getting-started.md#quick-start) 
+1. [Getting Started](./getting-started.md) 
+    * [Quick Start](./getting-started.md#quick-start)
+
