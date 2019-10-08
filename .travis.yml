@@ -27,7 +27,7 @@ deploy:
 
 after_script:
   - git clone https://github.com/studevsoc-sds/sdswebsite-docs.git
-  - cd docs && git checkout gh-pages
+  - cd sdswebsite-docs && git checkout gh-pages
   - touch CNAME && echo doc.studevsoc.com >> CNAME
   - git add CNAME && git commit -m "add CNAME"
   - git push -u origin gh-pages
