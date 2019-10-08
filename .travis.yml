@@ -26,3 +26,4 @@ deploy:
   keep-history: false
   on:
     branch: master
+
