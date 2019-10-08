@@ -30,4 +30,4 @@ after_script:
   - cd docs && git checkout gh-pages
   - touch CNAME && echo doc.studevsoc.com >> CNAME
   - git add CNAME && git commit -m "add CNAME"
-  - git push -u origin gh-pages
+  - git push --dry-run https://$GITHUB_TOKEN@www.github.com/studevsoc-sds/sdswebsite-docs.git HEAD:gh-pages
