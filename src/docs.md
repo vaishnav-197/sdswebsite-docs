@@ -18,5 +18,5 @@ SDS website  is used to list events, blog posts and sds members profiles. Which 
 
 # Contributions to SDS Website
 
-1. [Getting Started](./getting-started.md) 
-    * Quick Start
+1. [Getting Started](./getting-started.md)
+    * [Quick Start](./getting-started.md#quick-start) 
