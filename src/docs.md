@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<h1 style="color:rgb(60, 179, 113);">Documentation For SDS Website</h1>
-=======
-on For SDS Website
 
->>>>>>> 9b7a15fbaeb6a97aefec1ba3be48dd111dcbfe66
+<h1 style="color:rgb(60, 179, 113);">Documentation For SDS Website</h1>
 This documentation is made for student developers society's website.
 
 ![HacktoberFest 2019](./asset/img/hack.png "This repo is a part of HacktoberFest 2019")
