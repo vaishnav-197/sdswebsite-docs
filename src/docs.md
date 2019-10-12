@@ -37,12 +37,7 @@ Hacktoberfest — brought to you by DigitalOcean in partnership with DEV — is 
 Can't make it to this event? Hacktoberfest is virtual and open to participants from around the globe. Sign up to participate today at <https://hacktoberfest.digitalocean.com>.
 \[]
 
-<<<<<<< HEAD
+
 1.  [Getting Started](./getting-started.md)
     - [Quick Start](./getting-started.md#quick-start)
 2.  [Contributions](./contribute.md)
-=======
-1. [Getting Started](./getting-started.md) 
-    * [Quick Start](./getting-started.md#quick-start)
-
->>>>>>> 9b7a15fbaeb6a97aefec1ba3be48dd111dcbfe66
